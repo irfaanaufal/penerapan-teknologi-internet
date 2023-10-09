@@ -68,7 +68,7 @@ $status_member=$_POST['status_member'];
 $submit = $_POST['Hitung'];
 ?>
 
-<?php if($submit) { ?>
+<?php if($submit)  ?>
 
 <?php
 if ($kode=="A01"){
